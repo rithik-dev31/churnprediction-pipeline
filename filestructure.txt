@@ -18,6 +18,7 @@
 |-- evaluate.py
 |-- feature_engineering.py
 |-- generate_sample_data.py
+|-- LICENSE
 |-- models
     |-- 1_Decision_Tree.joblib
     |-- 1_KNN.joblib

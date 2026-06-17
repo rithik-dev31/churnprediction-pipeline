@@ -429,10 +429,6 @@ Contributions are welcome! Please feel free to submit pull requests with improve
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author
-
-Developed by ML Engineering Team
-
 ## 📞 Support
 
 For issues, questions, or suggestions, please open an issue in the repository.
