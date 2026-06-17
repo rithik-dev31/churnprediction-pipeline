@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtualenv
+env/
+venv/
+ENV/
+.venv/
+
+# pytest
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# Environments
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Databases
+*.sqlite3
+database/
+
+# Models and Data
+models/
+datasets/
+
+# OS files
+.DS_Store
+Thumbs.db

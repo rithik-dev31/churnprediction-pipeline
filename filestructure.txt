@@ -1,0 +1,75 @@
+|-- .env.example
+|-- .gitignore
+|-- .streamlit_config.toml
+|-- app.py
+|-- clear_db.py
+|-- config.py
+|-- database
+    |-- churn_prediction.db
+    |-- delete_models.py
+|-- database.py
+|-- datasets
+    |-- 1_20260527_102157_Churn_Modelling.csv
+    |-- 1_20260530_110444_Churn_Modelling.csv
+    |-- 1_20260530_113232_Churn_Modelling.csv
+    |-- sample_data.csv
+|-- docker-compose.yml
+|-- Dockerfile
+|-- evaluate.py
+|-- feature_engineering.py
+|-- generate_sample_data.py
+|-- models
+    |-- 1_Decision_Tree.joblib
+    |-- 1_KNN.joblib
+    |-- 1_Logistic_Regression.joblib
+    |-- 1_Random_Forest.joblib
+    |-- 1_SVM.joblib
+    |-- 1_XGBoost.joblib
+|-- pages_init.txt
+|-- page_dashboard.py
+|-- page_eda.py
+|-- page_history.py
+|-- page_prediction.py
+|-- page_prediction_complete.py
+|-- page_prediction_fixed.py
+|-- page_prediction_new.py
+|-- page_settings.py
+|-- page_training.py
+|-- predict.py
+|-- preprocessing.py
+|-- quickstart.bat
+|-- quickstart.sh
+|-- QUICK_START_INTERACTIVE.py
+|-- readme_references
+    |-- DEPLOYMENT_GUIDE.md
+    |-- INDEX.md
+    |-- INSTANT_START_GUIDE.md
+    |-- PIPELINE_FLOW.md
+    |-- PIPELINE_SUMMARY.md
+    |-- PROJECT_SUMMARY.md
+    |-- README.md
+    |-- STREAMLIT_QUICK.md
+    |-- USER_GUIDE.md
+|-- requirements.txt
+|-- reset_db.py
+|-- run_full_pipeline.py
+|-- src_auth.py
+|-- train.py
+|-- upload_page.py
+|-- utils.py
+|-- __pycache__
+    |-- database.cpython-310.pyc
+    |-- evaluate.cpython-310.pyc
+    |-- feature_engineering.cpython-310.pyc
+    |-- page_dashboard.cpython-310.pyc
+    |-- page_eda.cpython-310.pyc
+    |-- page_history.cpython-310.pyc
+    |-- page_prediction.cpython-310.pyc
+    |-- page_settings.cpython-310.pyc
+    |-- page_training.cpython-310.pyc
+    |-- predict.cpython-310.pyc
+    |-- preprocessing.cpython-310.pyc
+    |-- src_auth.cpython-310.pyc
+    |-- train.cpython-310.pyc
+    |-- upload_page.cpython-310.pyc
+    |-- utils.cpython-310.pyc
