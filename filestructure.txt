@@ -40,6 +40,7 @@
 |-- quickstart.bat
 |-- quickstart.sh
 |-- QUICK_START_INTERACTIVE.py
+|-- README.md
 |-- readme_references
     |-- DEPLOYMENT_GUIDE.md
     |-- INDEX.md
@@ -47,7 +48,6 @@
     |-- PIPELINE_FLOW.md
     |-- PIPELINE_SUMMARY.md
     |-- PROJECT_SUMMARY.md
-    |-- README.md
     |-- STREAMLIT_QUICK.md
     |-- USER_GUIDE.md
 |-- requirements.txt
